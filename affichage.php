@@ -1,9 +1,4 @@
 <?php
-
-
-header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1
-header("Pragma: no-cache"); // HTTP 1.0
-header("Expires: 0"); // Proxies
 #keeep in mind banna 2HRS work without this ur stpid 
 #you r a linux_user not like them!!
 error_reporting(E_ALL);
